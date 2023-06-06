@@ -1,0 +1,5 @@
+{
+    "emulator.emulatorPathWindows": "C:\\Users\\nguye\\AppData\\Local\\Android\\Sdk\\emulator",
+    "emulator.emulatorPathLinux": "~/Android/Sdk/emulator",
+    "emulator.emulatorPathMac": "~/Library/Android/sdk/emulator"
+}
